@@ -7,7 +7,7 @@
 
 <link rel="stylesheet" href="/resources/css/mypage.css">
 
-
+<!-- 7월25일 git Test -->
 <div class="section-form">
 	<div class="left-section">
 		<div class="left-menu" type="button"
