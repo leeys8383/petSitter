@@ -141,9 +141,9 @@ $("#Authentication").on("click" ,function(e) {
       $("#emailAuthBtn").show();
       
       $.ajax({
-         type : 'post',
-         url : "/emailAuth",
-         dataType : 'json',
+         type : 'post', // 전송방식
+         url : "/emailAuth", // 콘트롤러 주소와 일치.
+         dataType : 'json', // 받아올 데이터타입(생략가능) html, json, xml 등 가능
          async : "false",
          data : {
             "email" : $("#email").val()

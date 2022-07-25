@@ -44,7 +44,7 @@ public class MemberController {
 	private PasswordEncoder pwencoder;
 	
 	@Setter(onMethod_ = @Autowired)
-	private FindAccService findservice;
+	private FindAccService findservice; //
 	
 	@Autowired
 	private JavaMailSender mailSender; // 메일 전송모듈
