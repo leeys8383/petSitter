@@ -29,7 +29,10 @@ public class AdminController {
 		model.addAttribute("list", memberservice.adminInfo());
 	}
 
-	@PostMapping("/remove")
+	@PostMapping("/remove") 
+	// POST 통신을 할때는 @RequestMapping(method=RequestMethod.POST, ...) 를 이용하거나 @PostMapping을 이용한다.
+	// 주의할 점으로 GET 통신에서는 @RequestParam을 사용하지만, POST 통신에서는 @RequestBody를 사용한다.
+	
 	public String remove(@RequestParam("userid") String userid, 
 			RedirectAttributes rttr) {
 		log.info("remove..." + userid);
