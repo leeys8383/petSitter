@@ -52,6 +52,7 @@ public class MemberController {
 
 	// 회원가입폼
 	@RequestMapping(value="/signup", method=RequestMethod.GET)
+	// RequestMapping : URL 을 컨트롤러의 메서드와 매핑할 때 사용하는 어노테이션
 	public void joinGet() {
 	}
 	
