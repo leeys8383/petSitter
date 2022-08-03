@@ -183,7 +183,7 @@ $(document).ready(function() {
 		function successFunction(result) {
 			if (result == 'found') {
 				if (confirm("입력하신 이메일로 임시 비밀번호를 발급받으시겠습니까?") == true) {
-					$.ajax({ // 비동기적 토인 방식
+					$.ajax({ // 비동기적 통신 방식
 						url: "/findAccount/pwMail",
 						type: "POST",
 						data: {
