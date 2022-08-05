@@ -70,6 +70,8 @@ public class MemberController {
 	// 회원가입시 아이디 존재 유무 확인
 	@RequestMapping(value="/useridcheck", method=RequestMethod.POST)
 	@ResponseBody
+	// 클라이언트에서 서버로 필요한 데이터를 요청하기 위해 JSON 데이터를 요청 본문에 담아서 서버로 보내면, 
+	// 서버에서는 @RequestBody 어노테이션을 사용하여 HTTP 요청 본문에 담긴 값들을 자바객체로 변환시켜, 객체에 저장한다.
 	public String useridcheck(String userid) throws Exception {
 		int result = memberService.useridcheck(userid);
 		
