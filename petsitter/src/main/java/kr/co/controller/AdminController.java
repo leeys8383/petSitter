@@ -27,7 +27,8 @@ public class AdminController {
 	@GetMapping("/admin/page")
 	public void list(Model model) {
 		model.addAttribute("list", memberservice.adminInfo());
-		// 모델에 데이터를 담을 대 addAtribute를 사용한다.
+		// 모델에 데이터를 담을 대 addAttribute를 사용한다.(Spring에서는 각 JSP영역 대신 Model에 Attribute를 실어서 전달한다.)
+		// 
 	}
 
 	@PostMapping("/remove") 
