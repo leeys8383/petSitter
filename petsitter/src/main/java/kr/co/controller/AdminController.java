@@ -27,6 +27,7 @@ public class AdminController {
 	@GetMapping("/admin/page")
 	public void list(Model model) {
 		model.addAttribute("list", memberservice.adminInfo());
+		// 모델에 데이터를 담을 대 addAtribute를 사용한다.
 	}
 
 	@PostMapping("/remove") 
