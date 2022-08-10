@@ -26,3 +26,8 @@
 https://www.boostcourse.org/cs112/lecture/118999?isDesc=false
 
 - 의사코드 : 프로그램 코드를 작성할 때 사용하기 위해, 프로그램의 진행 과정을 단계별로 기록해 놓은 것.
+
+4) 스크래치 : 기초 
+https://www.boostcourse.org/cs112/lecture/119000?isDesc=false
+
+- 
