@@ -17,10 +17,12 @@
 - 개발자들이 직접 POJO를 생성할 수 있지만 컨테이너에게 맡긴다.
 - 개발자는 비즈니스 로직에 집중할 수 있다.
 
-### IoC 분류 
+### IOC 분류 
 - DL(Dependency Lookup) : 저장소에 저장되어 있는 Bean에 접근하기 위해 컨테이너가 제공하는 API를 이용하여 Bean을 Lockup 하는 것
 - DI(Dependency Injection) : 각 클래스간의 의존관계를 빈 설정(Bean Defintion) 정보를 바탕으로 컨테이너가 자동으로 연결해 주는 것
 - Setter Injection : 수정자 주입
 - Construcor Injection : 생성자 주입
 - Method Injection : 필드 주입
 - ##### DL 사용시 컨테이너 종속이 증가하기 때문에 주로 DI를 사용한다.
+
+#### Bean : 스프링 컨테이너에 등록한 객체들을 빈이라 한다.
