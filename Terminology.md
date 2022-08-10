@@ -23,4 +23,4 @@
 - Setter Injection : 수정자 주입
 - Construcor Injection : 생성자 주입
 - Method Injection : 필드 주입
-##### - DL사용시 컨테이너 종속이 증가하기 때문에 주로 DI를 사용한다.
+- ##### DL 사용시 컨테이너 종속이 증가하기 때문에 주로 DI를 사용한다.
