@@ -60,7 +60,7 @@ public class ChargeController {
 		return "redirect:/charge/myPoint";
 	}
 	
-	@PreAuthorize("isAuthenticated()") // Spring Security(접근통제)
+	@PreAuthorize("isAuthenticated()") // Spring Security(접근통제
 	@GetMapping("/myPoint")
 	public void myPoint(Principal principal, Model model) {
 		
