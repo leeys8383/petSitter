@@ -30,4 +30,7 @@ https://www.boostcourse.org/cs112/lecture/118999?isDesc=false
 4) 스크래치 : 기초 
 https://www.boostcourse.org/cs112/lecture/119000?isDesc=false
 
-- 
+5) 스크래치 : 심화
+https://www.boostcourse.org/cs112/lecture/119001?isDesc=false
+
+
