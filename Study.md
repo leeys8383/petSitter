@@ -37,6 +37,11 @@ https://www.boostcourse.org/cs112/lecture/119001?isDesc=false
 
 
 ### 8월 11일
-1. Git 과 Github란?
-https://www.boostcourse.org/cs102/lecture/1427416
+1. Javascript
+- WEB과 Javascript, HTML
+- WEB이 처음 등장했을 때, 사람들은 HTML을 사용해서 정보를 주고받았습니다.
+- 하지만 HTML은 정적입니다. 한 번 출력되면 그 모양이 바뀌지 않죠.
+- 사용자와 동적으로 상호작용하는 WEB을 만들기 위해서 Javascript가 등장했습니다.
+- 이제 우리는 HTML을 이용해 웹페이지를 만들고, Javascript를 이용해 사용자와 상호작용할 수 있도록 추가할 겁니다.
+- 즉, 정적인 정보인 HTML을 Javascript가 동적으로 만들어 주는 것입니다.
 
