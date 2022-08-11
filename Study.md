@@ -34,3 +34,4 @@ https://www.boostcourse.org/cs112/lecture/119000?isDesc=false
 https://www.boostcourse.org/cs112/lecture/119001?isDesc=false
 
 
+### 8월 11일
