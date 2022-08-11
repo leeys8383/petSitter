@@ -1,3 +1,5 @@
+# boostcourse
+
 ### 8월 9일<br>
 1) 2진법<br>
 - 컴퓨터의 언어이다.(0, 1)<br>
@@ -35,3 +37,6 @@ https://www.boostcourse.org/cs112/lecture/119001?isDesc=false
 
 
 ### 8월 11일
+1. Git 과 Github란?
+https://www.boostcourse.org/cs102/lecture/1427416
+
