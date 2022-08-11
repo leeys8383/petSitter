@@ -45,3 +45,7 @@ https://www.boostcourse.org/cs112/lecture/119001?isDesc=false
 - 이제 우리는 HTML을 이용해 웹페이지를 만들고, Javascript를 이용해 사용자와 상호작용할 수 있도록 추가할 겁니다.
 - 즉, 정적인 정보인 HTML을 Javascript가 동적으로 만들어 주는 것입니다.
 
+2. Javascript, 동적 https://www.boostcourse.org/cs124/lecture/141897?isDesc=false
+- Javascript는 사용자와 상호작용 하는 언어입니다. 그리고 우리는 실습을 통해서 어떻게 이러한 일이 가능한지 살펴보았습니다. 
+- 웹 브라우저는 한 번 출력되면 바뀔 수 없지만, Javascript 코드에 따라서 style 속성이 추가되면서 디자인이 바뀌는 것입니다.
+- 이러한 Javascript의 특성을 이용해서 우리는 웹페이지를 더 동적으로 만들 수 있습니다.
