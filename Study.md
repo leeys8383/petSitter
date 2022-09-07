@@ -48,4 +48,11 @@ https://www.boostcourse.org/cs112/lecture/119001?isDesc=false
 - 웹 브라우저는 한 번 출력되면 바뀔 수 없지만, Javascript 코드에 따라서 style 속성이 추가되면서 디자인이 바뀌는 것입니다.
 - 이러한 Javascript의 특성을 이용해서 우리는 웹페이지를 더 동적으로 만들 수 있습니다.
 
+3. HTml과 JS의 만남 : script 태그 https://www.boostcourse.org/cs124/lecture/141898/?isDesc=false
+- Script 태그 (HTML에서 Javasxript 코드를 사용하기 위해서 script 태그를 사용할 수 있다.)
+- HTML / Javascript
+
+4. HTMl 과 JS의 만남 : 이벤트 https://www.boostcourse.org/cs124/lecture/141899/?isDesc=false
+- 이벤트(Event)
+- onclick, onchange
 
