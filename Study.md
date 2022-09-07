@@ -1,6 +1,6 @@
 # boostcourse
 
-### 8월 9일<br>
+
 1) 2진법<br>
 - 컴퓨터의 언어이다.(0, 1)<br>
 
@@ -23,7 +23,6 @@
 - 16진수 색상코드(HEX 색상코드)는 16진수 2자리 16 * 16 = 256이므로 16진수 2자리당 0~ 255의 범위를 표현할 수 있다.
 - 16진수 색상 코드는 앞에 (#)이 붙는다.
 
-### 8월 10일<br>
 3) 알고리즘(algorithm) : 문제를 해결하는 절차나 방법을 자세히 설명하는 과정.
 https://www.boostcourse.org/cs112/lecture/118999?isDesc=false
 
@@ -36,7 +35,6 @@ https://www.boostcourse.org/cs112/lecture/119000?isDesc=false
 https://www.boostcourse.org/cs112/lecture/119001?isDesc=false
 
 
-### 8월 11일
 1. Javascript
 - WEB과 Javascript, HTML
 - WEB이 처음 등장했을 때, 사람들은 HTML을 사용해서 정보를 주고받았습니다.
@@ -49,3 +47,5 @@ https://www.boostcourse.org/cs112/lecture/119001?isDesc=false
 - Javascript는 사용자와 상호작용 하는 언어입니다. 그리고 우리는 실습을 통해서 어떻게 이러한 일이 가능한지 살펴보았습니다. 
 - 웹 브라우저는 한 번 출력되면 바뀔 수 없지만, Javascript 코드에 따라서 style 속성이 추가되면서 디자인이 바뀌는 것입니다.
 - 이러한 Javascript의 특성을 이용해서 우리는 웹페이지를 더 동적으로 만들 수 있습니다.
+
+
