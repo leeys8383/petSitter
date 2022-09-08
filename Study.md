@@ -56,3 +56,8 @@ https://www.boostcourse.org/cs112/lecture/119001?isDesc=false
 - 이벤트(Event)
 - onclick, onchange
 
+5. HTMl과 JS의 만남 : 콘솔 https://www.boostcourse.org/cs124/lecture/141900/?isDesc=false
+- 콘솔(Console) : 웹 페이지에서 F12 안에서 소스 코드를 볼수 있음.
+
+
+
