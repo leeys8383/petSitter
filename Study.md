@@ -59,5 +59,17 @@ https://www.boostcourse.org/cs112/lecture/119001?isDesc=false
 5. HTMl과 JS의 만남 : 콘솔 https://www.boostcourse.org/cs124/lecture/141900/?isDesc=false
 - 콘솔(Console) : 웹 페이지에서 F12 안에서 소스 코드를 볼수 있음.
 
+6. 데이터 타입(문자열과 숫자열) https://www.boostcourse.org/cs124/lecture/194588/?isDesc=false
+- Boolean
+- Null
+- Undefined
+- Number
+- String 'Hello world'.length 문자열의 글자 갯수를 알려준다.
+- Symbol (new in ECMAScript 6)
+- 참고 사이트 https://developer.mozilla.org/ko/docs/Web/JavaScript
 
-
+7. 변수와 대입연산자 https://www.boostcourse.org/cs124/lecture/194589/?isDesc=false
+- 변수(Variable의 약어 var)
+- 대입 연산자
+- 상수(Constant)
+web 페이지 F12 콘솔 창에서 실행유보를 시키려면 Shift + Enter 키 사용.
