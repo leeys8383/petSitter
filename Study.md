@@ -73,3 +73,15 @@ https://www.boostcourse.org/cs112/lecture/119001?isDesc=false
 - 대입 연산자
 - 상수(Constant)
 web 페이지 F12 콘솔 창에서 실행유보를 시키려면 Shift + Enter 키 사용.
+
+8. 웹브라우저 제어 https://www.boostcourse.org/cs124/lecture/194590/?isDesc=false
+- 웹 브라우저 제어 html은 정적인 언어로 제어능력이 없고 javascript 는 동적이며 웹페이지 제어가 가능하다.
+- style, css
+
+9. CSS기초(style) https://www.boostcourse.org/cs124/lecture/194591/?isDesc=false
+- CSS (검색시에는 CSS background color property)
+- style 속성(property)
+- color, background-color
+* 참고자료 https://www.w3schools.com/cssref/pr_background-color.asp
+
+
