@@ -85,7 +85,7 @@ web 페이지 F12 콘솔 창에서 실행유보를 시키려면 Shift + Enter �
 * 참고자료 https://www.w3schools.com/cssref/pr_background-color.asp
 
 10. CSS기초(style)태그 https://www.boostcourse.org/cs124/lecture/194592/?isDesc=false
-- div 태그 : 화면 전체를 사용하기 때문에 줄바꿈이 가능.
-- span 태그 : 줄바꿈이 되지 않는다.
+- div 태그 : 화면 전체를 사용하기 때문에 줄 바꿈이 가능.
+- span 태그 : 화면 전체를 사용하지 않아 줄 바꿈이 되지 않는다.
 * 모든 태그를 div나 span 태그로 감싸기가 힘들고 수정하기도 어렵기 때문에 class를 사용한다.
 - class : CSS코드를 적용시킨다.
