@@ -97,3 +97,9 @@ web 페이지 F12 콘솔 창에서 실행유보를 시키려면 Shift + Enter �
 ** class는 중복이 가능하지만, id는 한 페이지에서만 한번만 사용 가능하다.
 - 태그 선택자
 ** 우선순위 id > class > 테그
+
+12. 제어할 태그 선택하기 https://www.boostcourse.org/cs124/lecture/194594/?isDesc=false
+- querySelector https://developer.mozilla.org/ko/docs/Web/API/Document/querySelector
+- querySelector라는 함수를 사용하면 이러한 선택자를 이용해서 원하는 태그를 선택할 수 있습니다. 다음과 같이 사용할 수 있습니다.
+- <input type="button" value="night" onclick="documnet.querySelector('body').style.backgroundColor = 'black';">
+
