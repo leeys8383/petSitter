@@ -122,4 +122,14 @@ web 페이지 F12 콘솔 창에서 실행유보를 시키려면 Shift + Enter �
 
 15. 비교연산자와 블리언 https://www.boostcourse.org/cs124/lecture/194605/?isDesc=false
 - 비교 연산자 ===
-- 블리언(Boolean) 
+- 블리언(Boolean) : true & false
+- 비교 연산자 <(&lt;) >(&gt;)
+
+16. 조건문 https://www.boostcourse.org/cs124/lecture/194606/?isDesc=false
+- if / else
+
+17. 조건문의 활용 https://www.boostcourse.org/cs124/lecture/194607/?isDesc=false
+- 조건문
+- 토글
+- querySelector와 value
+
