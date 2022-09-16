@@ -104,4 +104,18 @@ web 페이지 F12 콘솔 창에서 실행유보를 시키려면 Shift + Enter �
 - <input type="button" value="night" onclick="documnet.querySelector('body').style.backgroundColor = 'black';">
 
 ### Javascript 제어문
+
 13. 프로그램, 프로그래밍, 프로그래머
+- 프로그램(순서라는 의미) 
+- 프로그래밍(순서를 만드는 의미)
+- 프로그래머(순서를 만다는 사람)
+
+#### HTML과 Javascript의 비교 https://www.boostcourse.org/cs124/lecture/194603?isDesc=false
+- HTML로 만든 웹페이지는 시간의 순서에 따라 실행되지 않고, 한 번 만들어지면 바뀌지 않습니다. 때문에 HTML은 컴퓨터 프로그래밍 언어가 아닌 것이죠.
+반면에 Javascript는 사용자와 상호작용하고, 이를 위해서 시간에 따라 여러 기능이 실행되어야 하기 때문에 프로그래밍이라는 형태를 띄게 됩니다. 따라서 Javascript는 컴퓨터 프로그래밍 언어라고 부를 수 있는 것입니다.
+그리고 더 나아가서 시간에 따라 코드가 실행되는 것 외에도, 조건에 따라 다른 코드가 실행되도록 하거나, 같은 코드가 반복적으로 실행할 수 있는 방법도 고안하게 된 것입니다.
+
+14. 조건문 예고
+- 조건문 : 프로그램이 조건에 따라서 다른 기능들이 다른 순서에 따라서 실행되도록 만들어주는 것
+- if / else
+- 토글(toggle) : 하나의 설정 값으로부터 다른 값으로 전환하는 것
