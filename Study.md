@@ -138,3 +138,29 @@ web 페이지 F12 콘솔 창에서 실행유보를 시키려면 Shift + Enter �
 - this : Javascript에는 자기 자신을 가리키기 위한 this라는 키워드가 있습니다. document.querySelector('#night_day') 대신 this를 써도 되는 것이죠. 
 - 변수 : document.querySelector('body') 를 var target = document.querySelector('body'); 선언하여 긴 코드를 줄인다.
 
+19. 반복문 예고 https://www.boostcourse.org/cs124/lecture/194612/?isDesc=false
+- 반복문 : 같은 작업을 반복적으로 실행 하는 문법
+var links = document.querySelectorAll('a');
+var i = 0;
+while (i<links.length) {
+  links[i].style.color = 'powerblue';
+  i=i+1;
+}
+
+20. 배열
+- 배열(Array) : document.write(fruits[0]);
+- length : document.write(fruits.length); (배열뒤에 length를 쓰면 그 배열의 길이를 나타낸다.)
+- push : fruits(변수명).push(명령어)("coconut");(배열에 값 추가하기)
+
+21. 반복문 https://www.boostcourse.org/cs124/lecture/194614/?isDesc=false
+- While문 : 순서대로 실행되는 프로그램의 실행 프름을 제어하는 제어문이다. 
+- 조건문 
+
+22. 배열과 반복문 https://www.boostcourse.org/cs124/lecture/194615/?isDesc=false
+- 반복문
+- 배열
+
+23. 배열과 반복문의 활용 https://www.boostcourse.org/cs124/lecture/194616/?isDesc=false
+- 반복문과 배열
+- querySelectorAll(Javascript element css selector multiple 검색) : querySelector와 사용 방법은 동일하며 선택자를 선택하여 배열과 비슷한 객체인 nodeList를 반환한다.
+
