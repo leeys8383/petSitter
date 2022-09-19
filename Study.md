@@ -164,3 +164,6 @@ while (i<links.length) {
 - 반복문과 배열
 - querySelectorAll(Javascript element css selector multiple 검색) : querySelector와 사용 방법은 동일하며 선택자를 선택하여 배열과 비슷한 객체인 nodeList를 반환한다.
 
+24. 함수 예고 https://www.boostcourse.org/cs124/lecture/194627
+- 함수란 무엇인지 이해하고, 함수를 사용할 때의 장점을 알아본다.
+
