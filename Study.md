@@ -133,7 +133,7 @@ web 페이지 F12 콘솔 창에서 실행유보를 시키려면 Shift + Enter �
 - 토글
 - querySelector와 value 구글 검색시 javascript element get value
 
-18. 리팩토링(중복의 제거) https://www.boostcourse.org/cs124/lecture/194611/?isDesc=false
+18. 리팩토링(사용자가 편리하게 사용할 수 있도록 기능을 개선한다.) https://www.boostcourse.org/cs124/lecture/194611/?isDesc=false
 - 리팩토링 : 비효율적인 코드를 효율적으로 만들어서 가독성을 높이고 유지보수가 쉽도록 만드는 것입니다. 코드의 기능적인 면에서는 변화가 없도록 말이죠.
 - this : Javascript에는 자기 자신을 가리키기 위한 this라는 키워드가 있습니다. document.querySelector('#night_day') 대신 this를 써도 되는 것이죠. 
 - 변수 : document.querySelector('body') 를 var target = document.querySelector('body'); 선언하여 긴 코드를 줄인다.
