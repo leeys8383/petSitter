@@ -167,3 +167,25 @@ while (i<links.length) {
 24. 함수 예고 https://www.boostcourse.org/cs124/lecture/194627
 - 함수란 무엇인지 이해하고, 함수를 사용할 때의 장점을 알아본다.
 
+25. 함수 https://www.boostcourse.org/cs124/lecture/194628/?isDesc=false
+- 함수 : 프로그래밍에서 함수(function)란 하나의 특별한 목적의 작업을 수행하기 위해 독립적으로 설계된 프로그램 코드의 집합으로 정의한다.
+- 함수를 사용하는 가장 큰 이유는 바로 반복적인 프로그래밍을 피할 수 있기 때문입니다.
+- 프로그램에서 특정 작업을 여러 번 반복해야 할 때는 해당 작업을 수행하는 함수를 작성하면 됩니다.
+- 그리고서 프로그램이 필요할 때마다 작성한 함수를 호출하면 해당 작업을 반복해서 수행할 수 있습니다.
+
+26. 함수-매개변수와 인자 https://www.boostcourse.org/cs124/lecture/194629/?isDesc=false
+- 매개변수(parameter) : sum의 괄호 안에 들어오는 두 숫자를 각각 left, right라는 변수에 넣는 것이죠. 이 때 이러한 변수를 매개변수라고 한다.
+- function sum(left, right) {
+  document.write(left + right);
+}
+- 인자(Argument) : sum(2,3); sum의 괄호 안에 넣어서 함수로 전달해주는 저 숫자 2, 3을 보고 인자라고 한다.
+
+27. 함수-리턴 https://www.boostcourse.org/cs124/lecture/194630/?isDesc=false
+- return이 필요한 이유는 return 을 사용하여 인자를 자유롭게 수정하여 다양한 결과를 만들수 있다.
+
+28. 함수 활용 https://www.boostcourse.org/cs124/lecture/194631/?isDesc=false
+- 함수를 잘 활용하면 중복되는 코드를 제거하고 가독성이 높아진다.
+- this : 전역객체  = 당 코드가 포함된 태그를 가르켜 준다. self : 매개변수 = this를 script태그내의 function 함수의 매개변수로 가져온다.
+
+29. 객체 예고
+- 
