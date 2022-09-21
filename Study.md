@@ -187,5 +187,10 @@ while (i<links.length) {
 - 함수를 잘 활용하면 중복되는 코드를 제거하고 가독성이 높아진다.
 - this : 전역객체  = 당 코드가 포함된 태그를 가르켜 준다. self : 매개변수 = this를 script태그내의 function 함수의 매개변수로 가져온다.
 
-29. 객체 예고
+29. 객체 예고 https://www.boostcourse.org/cs124/lecture/194638
+- 객체(Object) : 서로 연관된 함수와 변수가 아주 많아지면 이를 정리하기 위해서 사용
+- 메소드(Method) : document.querySelector('body'); 여기에서 document가 바로 객체이고, querySelector가 document라는 객체에 속해 있는 함수라고 생각할 수 있는 것입니다. 이렇게 객체에 속해 있는 함수들은 메소드(Method)라한다.
+- 변수 
+
+30. 객체(쓰기와 읽기) https://www.boostcourse.org/cs124/lecture/194639/?isDesc=false
 - 
