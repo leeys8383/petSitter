@@ -193,4 +193,12 @@ while (i<links.length) {
 - 변수 
 
 30. 객체(쓰기와 읽기) https://www.boostcourse.org/cs124/lecture/194639/?isDesc=false
-- 
+- 객체 : 이름이 있는 정리 정돈 상자.
+
+31. 객체(순회) https://www.boostcourse.org/cs124/lecture/194640/?isDesc=false
+- 순회(iteration) : 모든 값들을 가져오는 방법
+- for in 
+
+32. 객체(프로퍼티와 메소드) https://www.boostcourse.org/cs124/lecture/194641/?isDesc=false
+- 메소드 : 객체에 해당하는 함수들은 메소드
+- 프로퍼티 : 객체에 해당하는 변수
