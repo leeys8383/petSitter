@@ -204,4 +204,45 @@ while (i<links.length) {
 - 프로퍼티(Property) : 객체에 해당하는 변수
 
 33. 객체의 활용 https://www.boostcourse.org/cs124/lecture/194642/?isDesc=false
-- 객체
+Body.setColor('black');
+Links.setColor('powderblue');
+- 함수의 이름이 같아도 다른 객체에 소속된 메소드이기 때문에 충돌이 일어나지 않는 것이죠.
+- 함수의 이름에 대한 부담이 덜어졌고 관련된 함수들을 객체 안에 모아둘 수 있어서 코드의 가독성이 올라갔다.
+
+Quiz 4 
+1) 객체에 대한 설명으로 옳은 것을 고르시오.
+- 서로 연관된 함수와 변수를 그룹화해서 정리정돈하기 위한 도구이다.
+
+2) 객체를 만들기 위한 방법으로 옳은 것을 고르시오.
+- var coworkers = {"programmer" : "egoing"};
+
+3) 객체의 사용법으로 올바르지 않은 것을 고르시오.
+- coworkers.data scientist = "taeho";
+
+4) 객체를 순회하기 위한 방법으로 옳은 것을 고르시오.
+- for (var key in coworkers)
+
+5) 객체의 메소드 안에서 객체 자신을 가리키는 키워드로 올바른 것을 고르시오.
+- this
+
+6) 다음 코드에서 querySelector를 부르는 용어로 올바른 것을 고르시오.
+document.querySelector("body");
+- method
+
+7) 객체의 프로퍼티와 프로퍼티를 구분하는 기호로 올바른 것을 고르시오.
+- ,
+
+34. 파일로 쪼개서 정리 정돈하기 https://www.boostcourse.org/cs124/lecture/147572
+- js파일 : 이 짧은 script 코드를 필요한 페이지에 붙여 넣으면 이 Javascript 코드를 한 번에 관리할 수 있는 것이다. 
+- 코드를 재사용할 수 있고, 동시에 코드를 수정할 수 있어서 유지보수가 편리해집니다. 코드가 명확해지고 가독성이 좋아진다는 장점이 있다.
+- script의 src(source)속성 : 
+- 생각해보기 : 여러 js 파일을 가져오고 싶다면 어떻게 하면 좋을지 알아봅시다. (힌트: html include multiple js files 라고 검색해보세요!)
+
+35. 라이브러리와 프레임워크 https://www.boostcourse.org/cs124/lecture/147573
+- 라이브러리 : 프로그램에 필요한 부품이 되는 소프트웨어가 정리되어 있는 것
+- 프레임워크 : 만들고자 하는 프로그램의 종류에 따라서 공통적인 부분을 미리 만들어놓는 것
+- jQuery : Javascript 라이브러리 중 하나는 jQuery입니다. 이 라이브러리를 사용하면 생산성을 높일 수 있습니다. 인터넷에서 jQuery를 다운로드하는 방법도 있고, CDN이라는 방법을 사용해도 됩니다. CDN을 사용하면 코드를 한 줄 추가하는 것만으로도 라이브러리를 가져와서 사용할 수 있습니다. 예를 들어 jQuery의 구글 CDN은 다음과 같습니다. (jQuery 홈페이지에서 찾을 수 있습니다.)
+- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+- 생각해보기  jQuery를 직접 자신의 HTML 파일에 추가해보고, 이를 이용해서 모든 h1 태그의 글자 크기를 바꾸는 코드를 작성해 봅시다.
+- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+$('h1').css('font-size', '20px');
