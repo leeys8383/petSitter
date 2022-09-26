@@ -201,4 +201,7 @@ while (i<links.length) {
 
 32. 객체(프로퍼티와 메소드) https://www.boostcourse.org/cs124/lecture/194641/?isDesc=false
 - 메소드 : 객체에 해당하는 함수들은 메소드
-- 프로퍼티 : 객체에 해당하는 변수
+- 프로퍼티(Property) : 객체에 해당하는 변수
+
+33. 객체의 활용 https://www.boostcourse.org/cs124/lecture/194642/?isDesc=false
+- 객체
