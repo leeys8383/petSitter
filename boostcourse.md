@@ -295,3 +295,6 @@ Quiz 5
   - 객체 : 서로 연관된 변수와 함수를 그룹핑하고 이름을 붙인 것.
   
   2_ 실습준비  https://www.boostcourse.org/cs124/lecture/1019204?isDesc=false
+
+  3_1_객체의 기본 https://www.boostcourse.org/cs124/lecture/1019205/?isDesc=false
+  
