@@ -247,12 +247,12 @@ document.querySelector("body");
 - <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 $('h1').css('font-size', '20px');
 
-36. UI vs API
+36. UI vs API  https://www.boostcourse.org/cs124/lecture/147574?isDesc=false
 - UI(User Interface) 
 - API(Application Programming Interface)
 - 생각해보기 UI 와 API는 어떤 관계를 가지고 있을까? 개발자가 호풀하도록 만든 장치(API)를 사용자가 화면을 통해 조작한다(UI)
 
-37. 수업을 마치며
+37. 수업을 마치며  https://www.boostcourse.org/cs124/lecture/147575/?isDesc=false
 - 프로젝트  
 1. 모든 개념을 총 동원하려고 하지 말것 최소한의 도구로 문제로 해결.
 2. 순서대로 실행된다.
@@ -289,3 +289,9 @@ Quiz 5
 7. API의 풀네임으로 알맞은 것을 고르시오.
   - Application Programming Interface
   
+  
+  ## Javascript 객체 기본
+  1_ 수업소개 https://www.boostcourse.org/cs124/lecture/1019203
+  - 객체 : 서로 연관된 변수와 함수를 그룹핑하고 이름을 붙인 것.
+  
+  2_ 실습준비  https://www.boostcourse.org/cs124/lecture/1019204?isDesc=false
