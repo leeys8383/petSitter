@@ -246,3 +246,9 @@ document.querySelector("body");
 - 생각해보기  jQuery를 직접 자신의 HTML 파일에 추가해보고, 이를 이용해서 모든 h1 태그의 글자 크기를 바꾸는 코드를 작성해 봅시다.
 - <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 $('h1').css('font-size', '20px');
+
+36. UI vs API
+- UI(User Interface) 
+- API(Application Programming Interface)
+- 생각해보기 UI 와 API는 어떤 관계를 가지고 있을까? 개발자가 호풀하도록 만든 장치(API)를 사용자가 화면을 통해 조작한다(UI)
+
