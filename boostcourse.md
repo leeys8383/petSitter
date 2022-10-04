@@ -305,4 +305,5 @@ Quiz 5
   - 객체를 업데이트 하거나 추가 하고 싶을 때는 memberObject.designer = 'leeche'; 사용
   - 지운때는 delete라는 연산자를 사용한다. delete 객체명.키값(인자),객체명.['키값(인자)'];
   
+  3_2_ 객체와 반복문  https://www.boostcourse.org/cs124/lecture/1019206/?isDesc=false
   
