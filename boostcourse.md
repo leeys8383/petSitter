@@ -297,4 +297,12 @@ Quiz 5
   2_ 실습준비  https://www.boostcourse.org/cs124/lecture/1019204?isDesc=false
 
   3_1_객체의 기본 https://www.boostcourse.org/cs124/lecture/1019205/?isDesc=false
+  - 값에 . 을 통해서 접근할 수 있고 또는 배열을[] 를 통해서 접근 할 수 있다.
+   console.log("memberObject.designer", memberObject.designer);
+   console.log("memberObject['designer']", memberObject.designer);
+  - 객체는 이름이 있는 정보를 정리정돈 할때 사용한다.
+  - 객체가 있는값을 읽을 때 . 이나 [] 를 통해서 접근할 수 있다.
+  - 객체를 업데이트 하거나 추가 하고 싶을 때는 memberObject.designer = 'leeche'; 사용
+  - 지운때는 delete라는 연산자를 사용한다. delete 객체명.키값(인자),객체명.['키값(인자)'];
+  
   
